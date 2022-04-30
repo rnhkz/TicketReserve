@@ -1,0 +1,3 @@
+/Volumes/SKOOL3/uni poop/1. Fall 2020/CS2337 - CS2/TicketReserve/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Volumes/SKOOL3/uni poop/1. Fall 2020/CS2337 - CS2/TicketReserve/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Volumes/SKOOL3/uni poop/1. Fall 2020/CS2337 - CS2/TicketReserve/cmake-build-debug/CMakeFiles/Project4.dir

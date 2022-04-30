@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" "/Volumes/SKOOL3/uni poop/1. Fall 2020/CS2337 - CS2/TicketReserve"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Volumes/SKOOL3/uni poop/1. Fall 2020/CS2337 - CS2/TicketReserve/cmake-build-debug

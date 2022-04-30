@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -Wall -Wextra -Wuninitialized -pedantic-errors -Wconversion -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/Project4.dir/Main.cpp.o CMakeFiles/Project4.dir/Seat.cpp.o CMakeFiles/Project4.dir/Auditorium.cpp.o -o Project4 
