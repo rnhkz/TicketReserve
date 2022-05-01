@@ -1,3 +1,12 @@
+Compile:
+Required: Cmake, make
+
+>cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles"
+>make
+>./project4
+
+*Files A1.txt, A2.txt, A3.txt, and userDB.dat must be in same folder as executable (Located in */cmake-build-debug).
+
 1. What is this?
 A program that simulates adding/removing seat reservations to a virtual auditorium. The auditorium is visualized through the command prompt.
 
