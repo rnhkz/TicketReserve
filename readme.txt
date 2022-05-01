@@ -1,9 +1,10 @@
 Compile:
 Required: Cmake, make
 
->cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles"
+From within TicketReserve directory:
+>cmake *
 >make
->./project4
+>./Project4
 
 *Files A1.txt, A2.txt, A3.txt, and userDB.dat must be in same folder as executable (Located in */cmake-build-debug).
 
